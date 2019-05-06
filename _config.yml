@@ -1,6 +1,9 @@
-title: An awesome file
-
-
-theme: jekyll-theme-cayman
+title: Jack Guo's Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Talk is cheap. Show me the code. 
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
