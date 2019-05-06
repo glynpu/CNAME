@@ -1,4 +1,6 @@
-Site settings
-title: Jack Blog
-SEOTitle: 语音处理 | Jack Blog
+title: An awesome file
+
+
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
